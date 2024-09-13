@@ -4,6 +4,6 @@ se realizara el primer taller de programacion funcional en grupo, que constara d
 ## Autores
 Juan Esteban Franco
 
-Andres Narváez
+Andres Narváez      2259545
 
 Alejandro Garzón
